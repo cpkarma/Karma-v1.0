@@ -11,7 +11,7 @@ There are bunch of tools available in a single script. Please feel free to downl
 
 *Tool Requirements:* **Python 3**
 
-*Must Use:* **WSO Shell**
+*Must Use:* **Any WSO Shell**
 
 *Shell Download URL:* **https://raw.githubusercontent.com/cpkarma/Karma-All-In-One/main/Tools/karma.php**
 
